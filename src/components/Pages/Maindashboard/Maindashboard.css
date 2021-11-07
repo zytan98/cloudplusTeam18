@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+.items {
+  font-weight: 700;
+}
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+}
+.layout {
+  height: clamp(500px, 850px, 2000px);
+  margin: 50px 50px 50px 50px;
+  background-color: #fff;
+  position: relative;
+}
+.groupedbuttons {
+  position: absolute;
+  top: 640px;
+  right: 10px;
+}

@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+.avatar {
+  float: right;
+  margin: 16px 24px 16px 0;
+  background-color: #26a9e0;
+}

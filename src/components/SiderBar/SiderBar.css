@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+.ant-menu-item-selected {
+  background-color: #dbdce6 !important;
+}
+.ant-menu {
+  background: #fff;
+}
+.profile {
+  border-bottom-style: 'solid';
+  border-bottom-width: '1px';
+  border-bottom-color: '#f0f0f0';
+  margin: 10px 10px 10px 10px;
+}
