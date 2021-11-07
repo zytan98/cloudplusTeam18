@@ -26,7 +26,7 @@ export const Maindashboard = () => {
         <SiderBar />
         <Content className='layout'>
           <div className='groupedbuttons'>
-            <Row>
+            {/* <Row>
               <Button
                 onClick={() => {
                   setisSensorVisible(true)
@@ -53,7 +53,7 @@ export const Maindashboard = () => {
                 isWorkerVisible={isWorkerVisible}
                 setisWorkerVisible={setisWorkerVisible}
               />
-            </Row>
+            </Row> */}
           </div>
           <Button
             onClick={() => {

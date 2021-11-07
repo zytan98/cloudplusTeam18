@@ -1,4 +1,4 @@
-@import '~antd/dist/antd.css';
+@import "~antd/dist/antd.css";
 .items {
   font-weight: 700;
 }
@@ -9,9 +9,9 @@
   margin: 16px 24px 16px 0;
 }
 .layout {
-  height: clamp(500px, 850px, 2000px);
-  margin: 50px 50px 50px 50px;
-  background-color: #fff;
+  height: calc(100vh - 64px);
+  padding: 50px 50px 50px 50px;
+  background-color: rgb(87, 87, 87);
   position: relative;
 }
 .groupedbuttons {
